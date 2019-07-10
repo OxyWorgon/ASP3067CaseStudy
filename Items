@@ -1,5 +1,5 @@
 [
-{"COST":"1.0","GRAPHIC":"","MSRP":"1.0","PRODUCT":"Speyside12","QTYBACK":"1","QTYHAND":"1","DESC":"THING1","BRAND":"Speyside"},
+{"COST":"1.0","GRAPHIC":"Speyside12.jpg","MSRP":"1.0","PRODUCT":"Speyside12","QTYBACK":"1","QTYHAND":"1","DESC":"THING1","BRAND":"Speyside"},
 {"COST":"2.0","GRAPHIC":"","MSRP":"2.0","PRODUCT":"Speyside15","QTYBACK":"2","QTYHAND":"2","DESC":"THING2","BRAND":"Speyside"},
 {"COST":"3.0","GRAPHIC":"","MSRP":"3.0","PRODUCT":"SpeysideIPA","QTYBACK":"3","QTYHAND":"3","DESC":"THING3","BRAND":"Speyside"},
 {"COST":"4.0","GRAPHIC":"","MSRP":"4.0","PRODUCT":"SpeysideWC","QTYBACK":"4","QTYHAND":"4","DESC":"THING4","BRAND":"Speyside"},
