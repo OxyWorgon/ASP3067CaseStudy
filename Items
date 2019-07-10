@@ -6,11 +6,11 @@
 {"COST":"5.0","GRAPHIC":"","MSRP":"5.0","PRODUCT":"SpeysideFS","QTYBACK":"5","QTYHAND":"5","DESC":"THING5","BRAND":"Speyside"},
 {"COST":"1.0","GRAPHIC":"","MSRP":"1.0","PRODUCT":"LowLandOak","QTYBACK":"1","QTYHAND":"1","DESC":"THING11","BRAND":"LowLand"},
 {"COST":"2.0","GRAPHIC":"","MSRP":"2.0","PRODUCT":"LowLand12","QTYBACK":"2","QTYHAND":"2","DESC":"THING22","BRAND":"LowLand"},
-{"COST":"3.0","GRAPHIC":"","MSRP":"3.0","PRODUCT":"LowLandThreeWood","QTYBACK":"3","QTYHAND":"3","DESC":"THING33","BRAND":"LowLand"},
+{"COST":"3.0","GRAPHIC":"","MSRP":"3.0","PRODUCT":"LowLand3Wood","QTYBACK":"3","QTYHAND":"3","DESC":"THING33","BRAND":"LowLand"},
 {"COST":"4.0","GRAPHIC":"","MSRP":"4.0","PRODUCT":"LowLand18","QTYBACK":"4","QTYHAND":"4","DESC":"THING44","BRAND":"LowLand"},
 {"COST":"5.0","GRAPHIC":"","MSRP":"5.0","PRODUCT":"LowLand21","QTYBACK":"5","QTYHAND":"5","DESC":"THING55","BRAND":"LowLand"},
 {"COST":"1.0","GRAPHIC":"","MSRP":"1.0","PRODUCT":"Islay8","QTYBACK":"1","QTYHAND":"1","DESC":"THING111","BRAND":"Islay"},
-{"COST":"2.0","GRAPHIC":"","MSRP":"2.0","PRODUCT":"IslayExperimental","QTYBACK":"2","QTYHAND":"2","DESC":"THING222","BRAND":"Islay"},
+{"COST":"2.0","GRAPHIC":"","MSRP":"2.0","PRODUCT":"IslayExp","QTYBACK":"2","QTYHAND":"2","DESC":"THING222","BRAND":"Islay"},
 {"COST":"3.0","GRAPHIC":"","MSRP":"3.0","PRODUCT":"Islay12","QTYBACK":"3","QTYHAND":"3","DESC":"THING333","BRAND":"Islay"},
 {"COST":"4.0","GRAPHIC":"","MSRP":"4.0","PRODUCT":"Islay16","QTYBACK":"4","QTYHAND":"4","DESC":"THING444","BRAND":"Islay"},
 {"COST":"5.0","GRAPHIC":"","MSRP":"5.0","PRODUCT":"IslayPremium","QTYBACK":"5","QTYHAND":"5","DESC":"THING555","BRAND":"Islay"}
